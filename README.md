@@ -1,1 +1,2 @@
 # classification-challenge
+Here I was asked to predict which model would perform better for the task of identifying spam, create two models, and compare their results. The two models in question were LogisticRegression, and RandomForestClassifier. I predicted that RandomForestClassifier would provide a higher degree of accuracy, due to it being an ensemble model and a more general purpose classifier, which should out perform a regression model for this task. In this case, that was correct, but the random forest was a bit overfit. 
